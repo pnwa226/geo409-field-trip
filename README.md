@@ -1,4 +1,3 @@
-# GEO 409 Field Trip
 ## Maps created by Philip Watts in GEO 409 Spring Semester
 
 ### Note: Status of webpage incomplete as of Sunday, March 9th. Webpage and maps will be updated to meet the requirements. 
